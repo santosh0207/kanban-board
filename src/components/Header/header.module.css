@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    height: 50px;
+    background-color:aliceblue;
+    justify-content: space-around;
+    align-items: center;
+}
+.Buttons{
+    display: flex;
+    justify-content: flex-end;
+    height: 10vh;
+}
