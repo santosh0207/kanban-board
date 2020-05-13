@@ -18,7 +18,7 @@ export default class Header extends Component {
         return (
             <div className={classes.Header}>
                 {/* <Timer currentDate ={this.state.dateAndTime}></Timer> */}
-                <p style={{fontSize:"30px", fontWeight:"bold"}}>Create Your Kanban Board!!!</p>
+                <p style={{}}>Create Your Kanban Board!!!</p>
             </div>
         )
     }

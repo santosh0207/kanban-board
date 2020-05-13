@@ -4,6 +4,8 @@
     background-color:aliceblue;
     justify-content: space-around;
     align-items: center;
+    font-size:20px;
+    font-weight:bold
 }
 .Buttons{
     display: flex;
